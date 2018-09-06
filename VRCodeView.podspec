@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+VRCodeView is a light-weight, highly customizable and beautiful subclass of UIView that allows the user to enter verification code characters one textfield at a time, and move back and forth smoothly.
                        DESC
 
   s.homepage         = 'https://github.com/VatsalRustagi/VRCodeView'
@@ -26,11 +26,11 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Vatsal Rustagi' => 'vatsalr23@gmail.com' }
   s.source           = { :git => 'https://github.com/VatsalRustagi/VRCodeView.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+#  s.social_media_url = 'https://www.linkedin.com/in/vatsalrustagi'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
-  s.source_files = 'VRCodeView/Classes/**/*'
+  s.source_files = 'Classes/*.swift'
   s.swift_version = '4.1'
   
   # s.resource_bundles = {

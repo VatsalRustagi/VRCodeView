@@ -1,7 +1,6 @@
-
 //
 //  VRCodeView.swift
-//  Pods-VRCodeView_Example
+//  VRCodeView
 //
 //  Created by Vatsal Rustagi on 9/6/18.
 //

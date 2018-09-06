@@ -97,6 +97,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5175E84B2141E50D007485F0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				51B4CC122141966400FEE1F7 /* VRCodeView.swift */,
+				51B4CC14214197A100FEE1F7 /* Utils.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -121,8 +130,6 @@
 			children = (
 				DE8FC7D059094FA9D36B24FF02ECC851 /* Pod */,
 				DB3F20F2F0C8F416829320370BD449A1 /* Support Files */,
-				51B4CC122141966400FEE1F7 /* VRCodeView.swift */,
-				51B4CC14214197A100FEE1F7 /* Utils.swift */,
 			);
 			name = VRCodeView;
 			path = ../..;
@@ -198,6 +205,7 @@
 		DE8FC7D059094FA9D36B24FF02ECC851 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
+				5175E84B2141E50D007485F0 /* Classes */,
 				1BEF0ADE0FEBB9DEE6E5F8E941257A22 /* LICENSE */,
 				46B10E981BF6059B779BF3A95521189F /* README.md */,
 				9503A2AA9829123F8DAE089EA5CF1BFB /* VRCodeView.podspec */,
