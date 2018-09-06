@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VRCodeView'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A light-weight customizable UIView to enter verification codes written in Swift.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ VRCodeView is a light-weight, highly customizable and beautiful subclass of UIVi
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Classes/*.swift'
+  s.source_files = 'Classes/*'
   s.swift_version = '4.1'
   
   # s.resource_bundles = {
