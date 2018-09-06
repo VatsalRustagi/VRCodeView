@@ -1,0 +1,16 @@
+PODS:
+  - VRCodeView (0.1.0)
+
+DEPENDENCIES:
+  - VRCodeView (from `../`)
+
+EXTERNAL SOURCES:
+  VRCodeView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VRCodeView: ff2979376f47bf588a0c16be5d35ff99eaaa5689
+
+PODFILE CHECKSUM: 85b59c1038a91e51ec7ac8333c118a5b347fa69e
+
+COCOAPODS: 1.4.0

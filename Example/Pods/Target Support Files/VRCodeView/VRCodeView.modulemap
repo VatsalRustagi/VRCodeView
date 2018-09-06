@@ -1,0 +1,6 @@
+framework module VRCodeView {
+  umbrella header "VRCodeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

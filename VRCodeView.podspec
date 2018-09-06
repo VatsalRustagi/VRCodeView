@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'VRCodeView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of VRCodeView.'
+  s.summary          = 'A light-weight customizable UIView to enter verification codes written in Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,16 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Vatsal Rustagi/VRCodeView'
+  s.homepage         = 'https://github.com/VatsalRustagi/VRCodeView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Vatsal Rustagi' => 'vatsal@apthealth.com' }
-  s.source           = { :git => 'https://github.com/Vatsal Rustagi/VRCodeView.git', :tag => s.version.to_s }
+  s.author           = { 'Vatsal Rustagi' => 'vatsalr23@gmail.com' }
+  s.source           = { :git => 'https://github.com/VatsalRustagi/VRCodeView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'VRCodeView/Classes/**/*'
+  s.swift_version = '4.1'
   
   # s.resource_bundles = {
   #   'VRCodeView' => ['VRCodeView/Assets/*.png']

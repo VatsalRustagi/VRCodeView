@@ -1,0 +1,22 @@
+{
+  "name": "VRCodeView",
+  "version": "0.1.0",
+  "summary": "A short description of VRCodeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vatsal Rustagi/VRCodeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vatsal Rustagi": "vatsal@apthealth.com"
+  },
+  "source": {
+    "git": "https://github.com/Vatsal Rustagi/VRCodeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VRCodeView/Classes/**/*"
+}
