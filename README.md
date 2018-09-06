@@ -1,15 +1,23 @@
 # VRCodeView
 
-[![CI Status](https://img.shields.io/travis/Vatsal Rustagi/VRCodeView.svg?style=flat)](https://travis-ci.org/Vatsal Rustagi/VRCodeView)
-[![Version](https://img.shields.io/cocoapods/v/VRCodeView.svg?style=flat)](https://cocoapods.org/pods/VRCodeView)
-[![License](https://img.shields.io/cocoapods/l/VRCodeView.svg?style=flat)](https://cocoapods.org/pods/VRCodeView)
-[![Platform](https://img.shields.io/cocoapods/p/VRCodeView.svg?style=flat)](https://cocoapods.org/pods/VRCodeView)
+[![Language](https://img.shields.io/badge/Language-Swift%204.1-orange.svg)](https://cocoapods.org/pods/VRCodeView)
+[![Version](https://img.shields.io/badge/Version-0.1.0-red.svg)](https://cocoapods.org/pods/VRCodeView)
+[![License](https://img.shields.io/badge/License-MIT-black.svg)](https://cocoapods.org/pods/VRCodeView)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2010+-blue.svg)](https://cocoapods.org/pods/VRCodeView)
+
+**VRCodeView** is a light-weight, highly customizable and beautiful subclass of UIView that allows the user to enter verification code characters one textfield at a time, and move back and forth smoothly.
+
+<div style="text-align:center;"><img style="width:250px; box-shadow: -20px 20px 80px -16px rgba(0,0,0,0.75);" src ="./Screenshots/Screenshot.png" /></div>
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+<div style="text-align:center;"><img style="width:250px; box-shadow: -20px 20px 80px -16px rgba(0,0,0,0.75);" src ="./Screenshots/VRCodeView.gif" /></div>
+
+## Compatibility
+
+VRCodeView is compatible with **Swift 4.1** & **iOS 10+**.
 
 ## Installation
 
@@ -22,7 +30,7 @@ pod 'VRCodeView'
 
 ## Author
 
-Vatsal Rustagi, vatsal@apthealth.com
+Vatsal Rustagi, vatsalr23@gmail.com
 
 ## License
 
